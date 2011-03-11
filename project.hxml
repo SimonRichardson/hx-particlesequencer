@@ -1,0 +1,6 @@
+-swf9 bin/ParticleSequencer.swf
+-swf-version 10
+-main Main
+-cp src
+-cp ../hx-tonefall/src
+-swf-header 1000:1000:60:1d1d1d
